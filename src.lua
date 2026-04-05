@@ -10,8 +10,8 @@ if getgenv() then end
                     LuaPlus | Version 1.0.0 | By Derivative
                     
                     Derivative Team:
-                    Lead Development, @ily.neo
-                    Co-Lead Development, @s0ulz.ven
+                    Lead Development, @acegef
+                    Co-Lead Development, @node.sh
                     
                    #========================================#
                    LuaPlus is a Roblox Library designed by the
