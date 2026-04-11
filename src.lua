@@ -67,11 +67,11 @@ local l={
 | Lua+ as of v1.0.0  | LuaPlus currently supports these functions (replication):                    |=================|
 | does not support   |                                                                              |  Trusted Execs  |
 | or collaborate w/  | • WebSocket.connect : opens a websocket connection to the url that you have  |=================|
-| any scripts or hub |                       set it to → returns websocket object. Basically a live | Xeno          |
-|====================|                       server, no http delay & constant open pipe.            | Valex         |
-| If you are seeing  | • Debug             : (iscached)   → checks if that key got stored already   | Bunni.lol     |
-| this message after |                       (replace)    → swaps out the stored value              | Codex         |
-| executing a script |                       (invalidate) → removes it from the cache               | AWP           |
+| any scripts or hub |                       set it to → returns websocket object. Basically a live | Proton        |
+|====================|                       server, no http delay & constant open pipe.            | Cosmic        |
+| If you are seeing  | • Debug             : (iscached)   → checks if that key got stored already   | Bunni.fun     |
+| this message after |                       (replace)    → swaps out the stored value              | Delta         |
+| executing a script |                       (invalidate) → removes it from the cache               | Synapse Z     |
 | which does not     | • getgc             : pulls all garbage-collecter-tracked objects consisting | Wave          |
 | look understandable|                       of; functions,tables,userdata&threads that the lua VM  | Chocosploit   |
 | (obfuscated) then  |                       is currently holding.                                  | Volt          |
