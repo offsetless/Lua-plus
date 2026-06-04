@@ -2,7 +2,7 @@
 
 What is Lua+? 
 
-> is a project that increase the UNC of your executor
+> it's a project that increase the UNC of your executor
 
 ### What is UNC?
 
