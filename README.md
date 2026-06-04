@@ -2,11 +2,11 @@
 
 What is Lua+? 
 
-> It's a project that increase the UNC of your executor
+> It's a project that increases the UNC % of your executor
 
 ### What is UNC?
 
-> In very simple terms, it's basically the percentage of functions that you support, and these functions are used in scripts so ↑ UNC -> ↑ scripts supported
+> In very simple terms, it's basically the percentage of functions that your executor supports, and these functions are used in scripts so ↑ UNC -> ↑ scripts supported
 
 ---
 
